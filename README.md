@@ -4,12 +4,12 @@
 ## Requirements to run API
 1. PyMySQL
 2. Flask
-
+## To access entry point Application use HTML pages 
 1. entryP.html provides lookup for genes in database and gives four specific fields
-● gene names (display_label field)
-● location (location field)
-● Ensembl stable ID (stable_id field)
-● species (species field)
+- gene names (display_label field)
+- location (location field)
+- Ensembl stable ID (stable_id field)
+- species (species field)
 If Submitted parameter is not be under 3 chars (If submitted with less than 3 character, an
 error code is returned (400 HTTP code))
 
