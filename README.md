@@ -15,3 +15,5 @@ error code is returned (400 HTTP code))
 
 2. check.html for the Some Business Rules
 Service answer on GET queries, other queries (POST/PUT/PATCH) returns an error (405 HTTP code)
+## Output Images
+|OutPut Images                           |[py](Images/)
