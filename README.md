@@ -1,6 +1,6 @@
 # EntryPoint
-# Developed a REST API entry point
-# Using Python develop a REST Entry point service that provides a single endpoint.
+- Developed a REST API entry point
+- Using Python develop a REST Entry point service that provides a single endpoint.
 ## Requirements to run API
 1. PyMySQL
 2. Flask
